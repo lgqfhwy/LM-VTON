@@ -6,4 +6,4 @@ The official pytorch implementation of LG-VTON : "Toward Realistic Virtual Try-o
 
 
 ## Code
-Code will be update after paper accepted.
+Code will be updated after paper accepted.
