@@ -1,5 +1,5 @@
 # LG-VTON
-The official pytorch implementation of LM-VTON : "Toward Realistic Virtual Try-on Through Landmark-Guided Shape Matching"
+The official pytorch implementation of LM-VTON : "Toward Realistic Virtual Try-on Through Landmark-guided Shape Matching"
 
 
 ![](figures/cover_compare.png)
