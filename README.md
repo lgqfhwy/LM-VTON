@@ -1,4 +1,4 @@
-# LG-VTON
+# LM-VTON
 The official pytorch implementation of LM-VTON : "Toward Realistic Virtual Try-on Through Landmark-guided Shape Matching"
 
 
