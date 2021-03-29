@@ -17,3 +17,6 @@ For example, on mpv dataset, you could refer to first_stage/mpv_scripts/mpv_add_
 
 4. Run in second stage.
 For example, on mpv dataset, you could refer to second_stage/content_fusion_mpv_train.sh
+
+## License
+The use of this code is restricted to non-commercial research and educational purposes.
