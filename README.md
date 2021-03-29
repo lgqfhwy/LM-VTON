@@ -15,5 +15,5 @@ The official pytorch implementation of LM-VTON : "Toward Realistic Virtual Try-o
 3. Run in first stage.
 For example, on mpv dataset, you could refer to first_stage/mpv_scripts/mpv_add_point_vgg_train.sh
 
-4. Run in second stage
+4. Run in second stage.
 For example, on mpv dataset, you could refer to second_stage/content_fusion_mpv_train.sh
