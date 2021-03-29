@@ -1,4 +1,4 @@
-# LM-VTON
+# LM-VTON (AAAI 2021)
 The official pytorch implementation of LM-VTON : "Toward Realistic Virtual Try-on Through Landmark-guided Shape Matching"
 
 
